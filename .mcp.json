@@ -1,0 +1,6 @@
+{
+  "squawkflow": {
+    "type": "http",
+    "url": "https://mcp.squawkflow.com/claude/mcp"
+  }
+}

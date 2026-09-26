@@ -1,0 +1,28 @@
+{
+  "name": "squawkflow",
+  "version": "0.1.0",
+  "description": "Free, read-only, dated market structure data for SPX, SPY and QQQ: dealer gamma levels, the gamma grid, open interest change, max pain, the VIX futures curve, the exchange calendar and options-implied odds. Every figure carries its source, capture time and settlement date. No account, no key, not investment advice.",
+  "author": {
+    "name": "SquawkFlow",
+    "url": "https://squawkflow.com"
+  },
+  "homepage": "https://squawkflow.com",
+  "license": "MIT",
+  "keywords": [
+    "gamma-exposure",
+    "gex",
+    "dealer-gamma",
+    "options",
+    "spx",
+    "spy",
+    "qqq",
+    "max-pain",
+    "open-interest",
+    "vix",
+    "vix-term-structure",
+    "implied-probability",
+    "options-expiration",
+    "market-calendar",
+    "market-structure"
+  ]
+}
