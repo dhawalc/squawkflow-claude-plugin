@@ -24,5 +24,7 @@
     "options-expiration",
     "market-calendar",
     "market-structure"
-  ]
+  ],
+  "privacyPolicyUrl": "https://squawkflow.com/privacy",
+  "icon": "./.claude-plugin/icon.png"
 }
